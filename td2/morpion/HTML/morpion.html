@@ -1,0 +1,31 @@
+<html>
+<link rel="stylesheet" href="../CSS/morpion.css">
+<body onload=affichage()>
+
+<div id="menu">
+    <label>Mode :</label>
+    <select id="mode">
+        <option>Normal</option>
+        <option>Complet</option>
+    </select>
+    <button id="rejouer" onclick="generateTable()">Jouer</button>
+</div>
+<div id="indicjoueur">
+    <label>C'est a <label class ="joueur" id="joueur"></label> de jouer </label>
+</div>
+
+<div id="divmorpion">
+<label id = "gagnant"> Le gagnant est <label class ="joueur" id="joueurgagnant"></label></label>
+</div>
+
+<div id="menuvictoire">
+    <label>Victoire de <label class ="joueur" id="joueur1"></label> : </label>
+    <label id="victoirej1"> 0 - </label>
+    <label>Victoire de <label class ="joueur" id="joueur2"></label> : </label>
+    <label id="victoirej2"> 0 </label>
+    <label id="nul"></label>
+</div>
+
+</body>
+<script src="../JS/morpion.js"></script>
+</html>

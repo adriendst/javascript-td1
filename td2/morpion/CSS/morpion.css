@@ -1,0 +1,68 @@
+#menu{
+    text-align: center;
+    background-color: #B3BABF;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-left: 33%;
+    margin-right: 33%;
+    font-weight: bold;
+    border : solid;
+}
+
+.joueur{
+    color : #0D8FD7;
+}
+
+#gagnant{
+    text-align: center;
+    background-color: #B3BABF;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-left: 33%;
+    margin-right: 33%;
+    font-weight: bold;
+    border : solid;
+}
+
+
+#indicjoueur{
+    position : relative;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-left: 33%;
+    margin-right: 33%;
+    text-align: center;
+    background-color: #B3BABF;
+    font-weight: bold;
+    border : solid;
+}
+
+#divmorpion{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top : 10%;
+}
+
+#menuvictoire{
+    border : solid;
+    position:absolute;
+    bottom:5%;
+    right:25%;
+    left:25%;
+    text-align : center;
+    font-weight: bold;
+    background-color: #B3BABF;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border : solid;
+}
+
+#case{
+    min-width: 25px;
+    min-height: 25px;
+}
