@@ -1,0 +1,22 @@
+#menu{
+    position:relative;
+    background-color: #0D8FD7;
+    padding:25px;
+    max-width: 40%;
+    /*margin-right : 150px;*/
+}
+
+#resultat{
+    background-color: aqua;
+    margin-top:25px;
+    padding:25px;
+    max-width: 40%;
+}
+
+.element{
+    padding-top: 5px;
+}
+
+#results{
+    margin-top:5px;
+}
