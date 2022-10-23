@@ -1,0 +1,43 @@
+div{
+    margin-top : 25px;
+    margin-left : 25px;
+    margin-right : 45%;
+    padding : 10px;
+    background-color: #B3BABF;
+    border : solid 2px;
+}
+
+#secondpage{
+    margin-top : 10px
+}
+
+h1{
+    padding : 10px;
+    background-color: #B3BABF;
+    border : solid 2px;
+}
+
+table{
+    /*background-color: blue;*/
+}
+
+table, td, tr {
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr, td, th {
+    padding: 15px;
+}
+
+th{
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+t
